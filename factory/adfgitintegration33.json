@@ -1,0 +1,9 @@
+{
+	"name": "adfgitintegration33",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4eb3a3e1-3010-4e7a-8e17-e81a77845ddb",
+		"tenantId": "0b0d0759-1508-48c6-a560-01133e331463"
+	}
+}
